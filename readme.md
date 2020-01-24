@@ -4,7 +4,7 @@ This repo includes:
 - Report
 - Notebooks with results
 
-![alt text](https://brandfolder.com/vent/logo/vent-primary-logo.png)[center]
+![alt text](https://brandfolder.com/vent/logo/vent-primary-logo.png){.center}
 
 **References:** 
 
