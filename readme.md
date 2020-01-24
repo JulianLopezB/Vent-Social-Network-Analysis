@@ -5,10 +5,10 @@ This repo includes:
 - Notebooks with results
 
 <p align="center">
-  <img width="460" height="300" src="https://brandfolder.com/vent/logo/vent-primary-logo.png">
+  <img src="https://brandfolder.com/vent/logo/vent-primary-logo.png">
 </p>
 
-![alt text](https://brandfolder.com/vent/logo/vent-primary-logo.png){.center}
+
 
 **References:** 
 
